@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Aplikasi Rekap Transaksi",
+  "description": "Aplikasi manajemen dan rekapitulasi data transaksi dengan fitur import Excel/PDF dan pelaporan otomatis.",
+  "requestFramePermissions": []
+}
